@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm currently working on building my own personal website from scratch.
+- 🌱 I’m currently learning some additional video editing skills.
+- 📫 How to reach me: instagram: alen_gurung 
 <!--
 **alen-gurung/alen-gurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
