@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently working on building my own personal website from scratch.
+- W.I.P. Home (media) Server.
 <!--
 **alen-gurung/alen-gurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
